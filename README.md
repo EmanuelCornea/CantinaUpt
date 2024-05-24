@@ -1,1 +1,1 @@
-# Licenta
+# Proiect de Diploma
